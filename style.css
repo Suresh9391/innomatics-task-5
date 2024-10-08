@@ -1,0 +1,173 @@
+.image {
+    width: 190px;
+    height: 70px;
+  }
+  #navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+  }
+  #navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+  }
+  #navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+  }
+    #navItem4 {
+        color: #323f4b;
+        font-family: "Roboto"; 
+    } 
+    #navItem5 {
+      color: #323f4b;
+      font-family: "Roboto"; 
+  } 
+  #navItem6{
+    color:#323f4b;
+    font-family:"Roboto";
+  }
+    .banner-section-bg-container {
+        background-image: url("https://www.innomatics.in/wp-content/uploads/2023/12/mb-banner.jpg");
+        height: 110vh;
+        background-size: cover;
+        width:100%;
+      }
+      .custom-button {
+        color: white;
+        width: 130px;
+        height: 45px;
+        border-width: 0;
+        border-radius: 8px;
+        margin-right: 10px;
+        font-size:18px;
+      }  
+      #joinButton{
+        text-decoration:none;
+        color:white;
+      }
+      .courses-section {
+        background-color: white;
+      }
+      .courses-heading {
+        color: #183b56;
+        font-family: "Roboto";
+        font-size: 28px;
+        font-weight: 700;
+      }
+      .course-image {
+        border-radius: 16px;
+      }
+      .course-card-title {
+        color: #323f4b;
+        font-family: "Roboto";
+        font-size: 18px;
+        font-weight: 500;
+        margin-top: 24px;
+      }
+      .course-card {
+        border-radius: 16px;
+      }
+      .award-section{
+        background-color:#323f4b;
+      }
+      .image2{
+        height:100vh;
+      }
+      .classroom-section {
+        background-color: lightblue;
+      }
+      .classroom-heading {
+        color: #183b56;
+        font-family: "Roboto";
+        font-size: 28px;
+        font-weight: 700;
+      }
+      .classroom-card {
+        text-align: center;
+        background-color: white;
+        border-style: solid;
+        border-width: 1px;
+        border-color: #e5eaf4;
+        border-radius: 16px;
+      }
+      .classroom-card-image {
+        width:350px;
+        height:550px;
+      }
+      .internship-section {
+        background-color: blue;
+      }
+      .image1 {
+        width:100%;
+      }
+      .registration-section {
+        background-image: radial-gradient(#fff8db, #fae38c);
+      }
+    
+    .registration{
+      color:#183b56;
+      font-size:40px;
+      font-family:"Roboto";
+      font-weight:500;
+      text-align:center;
+    }
+    .name-container{
+      color:black;
+      font-size:25px;
+      font-family:"Roboto";
+    }
+    .email-container{
+      color:black;
+      font-size:25px;
+      font-family:"Roboto";
+    }
+      
+      .follow-us-section {
+        background-color: white;
+      }
+      .follow-us-section-heading {
+        text-align: center;
+        color: #183b56;
+        font-family: "Roboto";
+        font-size: 28px;
+        font-weight: 700;
+      }
+      .follow-us-icon-container {
+        background-color: #faf7e8;
+        width: 80px;
+        height: 80px;
+        border-radius: 40px;
+        margin: 15px;
+        padding-top: 22px;
+        padding-bottom: 14px;
+        padding-right: 16px;
+        padding-left: 22px;
+      }
+      .icon {
+        color: #d0b200;
+        font-size: 35px;
+      }
+      .footer-section {
+        background-color: #0d2436;
+      }
+      .footer-section-mail-id {
+        color: #959ead;
+        font-family: "Roboto";
+        font-weight: bold;
+        font-size: 16px;
+        margin-top: 20px;
+      }
+      .footer-section-contact {
+        color: #959ead;
+        font-family: "Roboto";
+        font-size: 14px;
+      }   
+      .footer-container{
+        background-color: #323f4b;
+      } 
+      .footer-para{
+        color:#f5f7fa;
+        font-size:14px;
+        font-family:"Roboto";
+      }
+    
